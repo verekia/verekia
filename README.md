@@ -1,1 +1,1 @@
-How is it going everyone? There's a lot of code here! Feel free to look around. The most current code I've been writing is [My Stack](https://github.com/verekia/my-stack) which is a generic app built with a full-stack architecture with all the modern goodness.
+How is it going everyone? There's a lot of code here! Feel free to look around. The most current code I've been writing is [My Stack](https://github.com/verekia/my-stack) which is a generic app built with a full-stack architecture with all the modern goodness. Keep on coding folks! ✌️
